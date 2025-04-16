@@ -5,3 +5,6 @@
 <img src="https://img.shields.io/badge/ultralytics-111F68?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/yolo-111F68?style=for-the-badge&logo=react&logoColor=white">
+
+
