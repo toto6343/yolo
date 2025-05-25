@@ -1,0 +1,8 @@
+pandas
+mysql-connector-python
+streamlit
+folium
+streamlit-folium
+streamlit-webrtc
+ultralytics
+opencv-python
