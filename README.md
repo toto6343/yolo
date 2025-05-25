@@ -36,9 +36,9 @@
 ## 🏙 프로토타입
 <table>
   <tr>
-    <td><img src="이미지URL1" width="100"/></td>
-    <td><img src="이미지URL2" width="100"/></td>
-    <td><img src="이미지URL3" width="100"/></td>
+    <td><img src="images/001.png" width="300"/></td>
+    <td><img src="images/002.png" width="300"/></td>
+    <td><img src="images/003.png" width="300"/></td>
   </tr>
 </table>
 
