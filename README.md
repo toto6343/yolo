@@ -34,6 +34,13 @@
 > → 사고 다발 구격에 대한 정책 수립, 시설 보강에 기여
 ---
 ## 🏙 프로토타입
+<table>
+  <tr>
+    <td><img src="이미지URL1" width="100"/></td>
+    <td><img src="이미지URL2" width="100"/></td>
+    <td><img src="이미지URL3" width="100"/></td>
+  </tr>
+</table>
 
 ---
 ## 💬 문의 및 기여
